@@ -1,0 +1,10 @@
+@charset 'UTF-8';
+
+html, body {
+  margin: 0px;
+  background-color: #b7b7b7;
+}
+img{
+  height:1920px;
+  width: 1080px;
+}
